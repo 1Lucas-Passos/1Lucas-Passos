@@ -26,13 +26,6 @@
 |---|---|---|
 | _em breve_ | _Os projetos serão adicionados aqui_ | — |
 
-### Estatísticas
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1Lucas-Passos&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Lucas-Passos&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
 ### Contato
 
 <a href="mailto:lucaspassos162009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
